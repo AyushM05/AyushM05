@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hey, I'm Ayush! 👋
+
+I am a junior majoring in Computer Engineering at UMass Amherst, passionate about leveraging technology to solve real-world problems. With hands-on experience in Python, C, SQL, R, MATLAB, and Java, I am especially interested in data science and machine learning applications in finance and other sectors. I am actively expanding my knowledge in cloud computing technologies, including AWS and Microsoft Azure.
+
+Outside of academics, I am a member of my university’s humanoid robotics team. I also enjoy staying active by going to the gym and playing basketball with friends.
+
+Let’s connect!
+LinkedIn: www.linkedin.com/in/ayush-mitra
+
 
 <!--
 **AyushM05/AyushM05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
