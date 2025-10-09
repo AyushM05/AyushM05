@@ -1,0 +1,17 @@
+{
+  "name": "nutriscan-server",
+  "version": "0.1.0",
+  "type": "module",
+  "main": "index.mjs",
+  "private": true,
+  "scripts": {
+    "start": "node index.mjs",
+    "dev": "NODE_ENV=development node index.mjs"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "openai": "^6.2.0"
+  }
+}
